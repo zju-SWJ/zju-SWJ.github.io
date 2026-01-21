@@ -16,7 +16,7 @@ My research interests include **computer vision** and **knowledge distillation**
 
 # 📝 Publications
 
-- **Knowledge Distillation with Refined Logits**<br>
+- [Knowledge Distillation with Refined Logits](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Knowledge_Distillation_with_Refined_Logits_ICCV_2025_paper.html)<br>
   **Wujie Sun**, Defang Chen*, Siwei Lyu, Genlang Chen, Chun Chen, Can Wang<br>
   *IEEE/CVF International Conference on Computer Vision (**ICCV**) 2025*
 
