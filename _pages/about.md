@@ -34,3 +34,4 @@ My research interests include **computer vision** and **knowledge distillation**
 
 # 📖 Educations
 - *2020.09 - 2025.06*, Ph.D., College of Computer Science and Technology, Zhejiang University, Hangzhou, China.
+- *2016.09 - 2020.06*, B.E., School of Software, South China University of Technology, Guangzhou, China.
