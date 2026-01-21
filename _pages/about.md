@@ -14,6 +14,13 @@ I am currently a Postdoctoral Researcher at the School of Software Technology, [
 
 My research interests include **computer vision** and **knowledge distillation**.
 
+📧 Email: <span id="email"></span>
+<script>
+var a = "sunwujie";
+var b = "zju.edu.cn";
+document.getElementById("email").innerHTML = '<a href="mailto:' + a + '@' + b + '">' + a + '@' + b + '</a>';
+</script>
+
 # 📝 Selected Publications
 
 - [Knowledge Distillation with Refined Logits](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Knowledge_Distillation_with_Refined_Logits_ICCV_2025_paper.html)<br>
