@@ -14,7 +14,7 @@ I am currently a Postdoctoral Researcher at the School of Software Technology, [
 
 My research interests include **computer vision** and **knowledge distillation**.
 
-# 📝 Publications
+# 📝 Selected Publications
 
 - [Knowledge Distillation with Refined Logits](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Knowledge_Distillation_with_Refined_Logits_ICCV_2025_paper.html)<br>
   **Wujie Sun**, Defang Chen*, Siwei Lyu, Genlang Chen, Chun Chen, Can Wang<br>
@@ -31,10 +31,6 @@ My research interests include **computer vision** and **knowledge distillation**
 - [Holistic Weighted Distillation for Semantic Segmentation](https://ieeexplore.ieee.org/document/10220035)<br>
   **Wujie Sun**, Defang Chen, Can Wang, Deshi Ye*, Yan Feng, Chun Chen<br>
   *IEEE International Conference on Multimedia and Expo (**ICME**) 2023*
-
-- [Source-Free Unsupervised Domain Adaptation in Imbalanced Datasets](https://ieeexplore.ieee.org/document/9943839)<br>
-  **Wujie Sun**, Qi Chen*, Can Wang, Deshi Ye, Chun Chen<br>
-  *International Conference on Data Science and Information Technology (**DSIT**) 2022*
 
 # 📖 Educations
 - *2020.09 - 2025.06*, Ph.D., College of Computer Science and Technology, Zhejiang University, Hangzhou, China.
