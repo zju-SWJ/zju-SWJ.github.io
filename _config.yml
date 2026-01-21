@@ -9,13 +9,54 @@
 title                    : "Wujie Sun"
 description              : ""
 repository               : "zju-SWJ/zju-SWJ.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
+
+# google analytics
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+
+# SEO Related
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "Wujie Sun"
   avatar           : "images/avatar.png"
   bio              : "Postdoctoral Researcher, Zhejiang University"
+  location         : "Hangzhou, China"
+  employer         :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=Ic-uOv4AAAAJ&hl=zh-CN"
+  email            : "sunwujie@zju.edu.cn"
+  researchgate     :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "zju-SWJ"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         :
+  dblp             : "https://dblp.org/pid/285/3312.html"
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files

@@ -16,24 +16,24 @@ My research interests include **computer vision** and **knowledge distillation**
 
 # 📝 Publications
 
-- **Knowledge Distillation with Refined Logits**
-  **Wujie Sun**, Defang Chen*, Siwei Lyu, Genlang Chen, Chun Chen, Can Wang
+- **Knowledge Distillation with Refined Logits**<br>
+  **Wujie Sun**, Defang Chen*, Siwei Lyu, Genlang Chen, Chun Chen, Can Wang<br>
   *IEEE/CVF International Conference on Computer Vision (**ICCV**) 2025*
 
-- [Multi-Exit Self-Distillation with Appropriate Teachers](https://link.springer.com/article/10.1631/FITEE.2200644)
-  **Wujie Sun**, Defang Chen, Can Wang*, Deshi Ye, Yan Feng, Chun Chen
+- [Multi-Exit Self-Distillation with Appropriate Teachers](https://link.springer.com/article/10.1631/FITEE.2200644)<br>
+  **Wujie Sun**, Defang Chen, Can Wang*, Deshi Ye, Yan Feng, Chun Chen<br>
   *Frontiers of Information Technology & Electronic Engineering (**FITEE**) 2024*
 
-- [Accelerating Diffusion Sampling with Classifier-based Feature Distillation](https://ieeexplore.ieee.org/document/10219693)
-  **Wujie Sun**, Defang Chen, Can Wang, Deshi Ye*, Yan Feng, Chun Chen
+- [Accelerating Diffusion Sampling with Classifier-based Feature Distillation](https://ieeexplore.ieee.org/document/10219693)<br>
+  **Wujie Sun**, Defang Chen, Can Wang, Deshi Ye*, Yan Feng, Chun Chen<br>
   *IEEE International Conference on Multimedia and Expo (**ICME**) 2023*
 
-- [Holistic Weighted Distillation for Semantic Segmentation](https://ieeexplore.ieee.org/document/10220035)
-  **Wujie Sun**, Defang Chen, Can Wang, Deshi Ye*, Yan Feng, Chun Chen
+- [Holistic Weighted Distillation for Semantic Segmentation](https://ieeexplore.ieee.org/document/10220035)<br>
+  **Wujie Sun**, Defang Chen, Can Wang, Deshi Ye*, Yan Feng, Chun Chen<br>
   *IEEE International Conference on Multimedia and Expo (**ICME**) 2023*
 
-- [Source-Free Unsupervised Domain Adaptation in Imbalanced Datasets](https://ieeexplore.ieee.org/document/9943839)
-  **Wujie Sun**, Qi Chen*, Can Wang, Deshi Ye, Chun Chen
+- [Source-Free Unsupervised Domain Adaptation in Imbalanced Datasets](https://ieeexplore.ieee.org/document/9943839)<br>
+  **Wujie Sun**, Qi Chen*, Can Wang, Deshi Ye, Chun Chen<br>
   *International Conference on Data Science and Information Technology (**DSIT**) 2022*
 
 # 📖 Educations
