@@ -18,19 +18,19 @@ My research interests include **computer vision** and **knowledge distillation**
 
 - [Knowledge Distillation with Refined Logits](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Knowledge_Distillation_with_Refined_Logits_ICCV_2025_paper.html)<br>
   **Wujie Sun**, Defang Chen*, Siwei Lyu, Genlang Chen, Chun Chen, Can Wang<br>
-  *IEEE/CVF International Conference on Computer Vision (**ICCV**) 2025*
+  *ICCV 2025, CCF-A*
 
 - [Multi-Exit Self-Distillation with Appropriate Teachers](https://link.springer.com/article/10.1631/FITEE.2200644)<br>
   **Wujie Sun**, Defang Chen, Can Wang*, Deshi Ye, Yan Feng, Chun Chen<br>
-  *Frontiers of Information Technology & Electronic Engineering (**FITEE**) 2024*
+  *FITEE 2024, CCF-T1*
 
 - [Accelerating Diffusion Sampling with Classifier-based Feature Distillation](https://ieeexplore.ieee.org/document/10219693)<br>
   **Wujie Sun**, Defang Chen, Can Wang, Deshi Ye*, Yan Feng, Chun Chen<br>
-  *IEEE International Conference on Multimedia and Expo (**ICME**) 2023*
+  *ICME 2023, CCF-B*
 
 - [Holistic Weighted Distillation for Semantic Segmentation](https://ieeexplore.ieee.org/document/10220035)<br>
   **Wujie Sun**, Defang Chen, Can Wang, Deshi Ye*, Yan Feng, Chun Chen<br>
-  *IEEE International Conference on Multimedia and Expo (**ICME**) 2023*
+  *ICME 2023, CCF-B*
 
 # 📖 Educations
 - *2020.09 - 2025.06*, Ph.D., College of Computer Science and Technology, Zhejiang University, Hangzhou, China.
