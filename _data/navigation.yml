@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-about-me"
 
   - title: "Selected Publications"
     url: "/#-selected-publications"

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+# 👤 About Me
 
 I am currently a Postdoctoral Researcher at the School of Software Technology, [Zhejiang University](http://www.zju.edu.cn/). I received my Ph.D. degree from the College of Computer Science and Technology, Zhejiang University in June 2025, supervised by Prof. [Can Wang](https://scholar.google.com/citations?user=C63q3HoAAAAJ&hl=zh-CN) and Prof. [Chun Chen](https://person.zju.edu.cn/chenc).
 
