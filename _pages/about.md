@@ -21,6 +21,9 @@ var b = "zju.edu.cn";
 document.getElementById("email").innerHTML = '<a href="mailto:' + a + '@' + b + '">' + a + '@' + b + '</a>';
 </script>
 
+# 🔥 News
+- *2026.01*: One paper "TopKGAT: A Top-K Objective-Driven Architecture for Recommendation" accepted by **WWW 2026**!
+
 # 📝 Selected Publications
 
 - [Knowledge Distillation with Refined Logits](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Knowledge_Distillation_with_Refined_Logits_ICCV_2025_paper.html)<br>
@@ -45,4 +48,4 @@ document.getElementById("email").innerHTML = '<a href="mailto:' + a + '@' + b + 
 - *2016.09 - 2020.06*, B.E., School of Software Engineering, South China University of Technology, Guangzhou, China.
 
 ---
-*Last updated: 2026-01-21*
+*Last updated: 2026-01-22*
