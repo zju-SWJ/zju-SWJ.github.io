@@ -10,7 +10,10 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <p class="author__bio">
+      <span class="lang-text" data-lang="en">{{ site.data.i18n.en.sidebar.bio }}</span>
+      <span class="lang-text" data-lang="zh">{{ site.data.i18n.zh.sidebar.bio }}</span>
+    </p>
   </div>
 
   <div class="author__urls-wrapper">
@@ -19,8 +22,12 @@
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+      {% if site.data.i18n.en.sidebar.location %}
+        <li>
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+          <span class="lang-text" data-lang="en">{{ site.data.i18n.en.sidebar.location }}</span>
+          <span class="lang-text" data-lang="zh">{{ site.data.i18n.zh.sidebar.location }}</span>
+        </li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>

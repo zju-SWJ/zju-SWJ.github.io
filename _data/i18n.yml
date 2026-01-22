@@ -1,4 +1,8 @@
 en:
+  sidebar:
+    bio: "Postdoctoral Researcher, Zhejiang University"
+    location: "Ningbo, China"
+
   nav:
     about: "About Me"
     news: "News"
@@ -32,6 +36,10 @@ en:
     updated: "Last updated"
 
 zh:
+  sidebar:
+    bio: "浙江大学 博士后"
+    location: "中国 宁波"
+
   nav:
     about: "关于我"
     news: "新闻"
@@ -45,7 +53,7 @@ zh:
     education: "教育和工作经历"
 
   about:
-    intro: "我目前是[浙江大学](http://www.zju.edu.cn/)软件学院的博士后研究员。我于2025年6月在浙江大学计算机科学与技术学院获得博士学位，导师为[王灿](https://scholar.google.com/citations?user=C63q3HoAAAAJ&hl=zh-CN)教授和[陈纯](https://person.zju.edu.cn/chenc)教授。"
+    intro: "我目前是[浙江大学](http://www.zju.edu.cn/)软件学院的博士后。我于2025年6月在浙江大学计算机科学与技术学院获得博士学位，导师为[王灿](https://scholar.google.com/citations?user=C63q3HoAAAAJ&hl=zh-CN)教授和[陈纯](https://person.zju.edu.cn/chenc)教授。"
     research: "我的研究方向包括**计算机视觉**和**知识蒸馏**。"
     email: "邮箱"
 
@@ -55,7 +63,7 @@ zh:
 
   education:
     - period: "2025.08 - 至今"
-      title: "博士后研究员，浙江大学软件学院，宁波"
+      title: "博士后，浙江大学软件学院，宁波"
     - period: "2020.09 - 2025.06"
       title: "博士，浙江大学计算机科学与技术学院，杭州"
     - period: "2016.09 - 2020.06"
