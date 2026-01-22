@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="lang-content" data-lang="en">
+<div class="lang-content" data-lang="en" markdown="1">
 
 # {{ site.data.i18n.en.sections.about }}
 
@@ -51,7 +51,7 @@ redirect_from:
 
 </div>
 
-<div class="lang-content" data-lang="zh" style="display:none;">
+<div class="lang-content" data-lang="zh" markdown="1">
 
 # {{ site.data.i18n.zh.sections.about }}
 

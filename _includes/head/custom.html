@@ -28,14 +28,17 @@
 })();
 </script>
 <style>
-.lang-content, .lang-text { display: none; }
-html[data-lang="en"] .lang-content[data-lang="en"],
-html[data-lang="en"] .lang-text[data-lang="en"] { display: block; }
-html[data-lang="zh"] .lang-content[data-lang="zh"],
-html[data-lang="zh"] .lang-text[data-lang="zh"] { display: block; }
-.lang-text { display: none; }
-html[data-lang="en"] .lang-text[data-lang="en"],
-html[data-lang="zh"] .lang-text[data-lang="zh"] { display: inline; }
+/* Hide all language content by default */
+.lang-content { display: none !important; }
+.lang-text { display: none !important; }
+
+/* Show content based on selected language */
+html[data-lang="en"] .lang-content[data-lang="en"] { display: block !important; }
+html[data-lang="zh"] .lang-content[data-lang="zh"] { display: block !important; }
+html[data-lang="en"] .lang-text[data-lang="en"] { display: inline !important; }
+html[data-lang="zh"] .lang-text[data-lang="zh"] { display: inline !important; }
+
+/* Language switch button */
 .lang-switch { cursor: pointer; margin-left: 10px; font-size: 14px; }
 .lang-switch:hover { text-decoration: underline; }
 </style>
