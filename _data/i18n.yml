@@ -1,0 +1,65 @@
+en:
+  nav:
+    about: "About Me"
+    news: "News"
+    publications: "Selected Publications"
+    education: "Education & Experience"
+
+  sections:
+    about: "About Me"
+    news: "News"
+    publications: "Selected Publications"
+    education: "Education & Experience"
+
+  about:
+    intro: "I am currently a Postdoctoral Researcher at the School of Software Technology, [Zhejiang University](http://www.zju.edu.cn/). I received my Ph.D. degree from the College of Computer Science and Technology, Zhejiang University in June 2025, supervised by Prof. [Can Wang](https://scholar.google.com/citations?user=C63q3HoAAAAJ&hl=zh-CN) and Prof. [Chun Chen](https://person.zju.edu.cn/chenc)."
+    research: "My research interests include **computer vision** and **knowledge distillation**."
+    email: "Email"
+
+  news:
+    - date: "2026.01"
+      content: "One paper \"TopKGAT: A Top-K Objective-Driven Architecture for Recommendation\" accepted by **WWW 2026**!"
+
+  education:
+    - period: "2025.08 - Present"
+      title: "Postdoctoral Researcher, School of Software Technology, Zhejiang University, Ningbo, China."
+    - period: "2020.09 - 2025.06"
+      title: "Ph.D., College of Computer Science and Technology, Zhejiang University, Hangzhou, China."
+    - period: "2016.09 - 2020.06"
+      title: "B.E., School of Software Engineering, South China University of Technology, Guangzhou, China."
+
+  footer:
+    updated: "Last updated"
+
+zh:
+  nav:
+    about: "关于我"
+    news: "新闻"
+    publications: "代表论文"
+    education: "教育经历"
+
+  sections:
+    about: "关于我"
+    news: "新闻"
+    publications: "代表论文"
+    education: "教育经历"
+
+  about:
+    intro: "我目前是[浙江大学](http://www.zju.edu.cn/)软件学院的博士后研究员。我于2025年6月在浙江大学计算机科学与技术学院获得博士学位，导师为[王灿](https://scholar.google.com/citations?user=C63q3HoAAAAJ&hl=zh-CN)教授和[陈纯](https://person.zju.edu.cn/chenc)教授。"
+    research: "我的研究方向包括**计算机视觉**和**知识蒸馏**。"
+    email: "邮箱"
+
+  news:
+    - date: "2026.01"
+      content: "论文 \"TopKGAT: A Top-K Objective-Driven Architecture for Recommendation\" 被 **WWW 2026** 录用！"
+
+  education:
+    - period: "2025.08 - 至今"
+      title: "博士后研究员，浙江大学软件学院，宁波"
+    - period: "2020.09 - 2025.06"
+      title: "博士，浙江大学计算机科学与技术学院，杭州"
+    - period: "2016.09 - 2020.06"
+      title: "学士，华南理工大学软件学院，广州"
+
+  footer:
+    updated: "最后更新"

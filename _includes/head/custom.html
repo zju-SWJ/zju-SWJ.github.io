@@ -20,4 +20,24 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- Language switch script -->
+<script>
+(function() {
+  var lang = localStorage.getItem('lang') || 'en';
+  document.documentElement.setAttribute('data-lang', lang);
+})();
+</script>
+<style>
+.lang-content, .lang-text { display: none; }
+html[data-lang="en"] .lang-content[data-lang="en"],
+html[data-lang="en"] .lang-text[data-lang="en"] { display: block; }
+html[data-lang="zh"] .lang-content[data-lang="zh"],
+html[data-lang="zh"] .lang-text[data-lang="zh"] { display: block; }
+.lang-text { display: none; }
+html[data-lang="en"] .lang-text[data-lang="en"],
+html[data-lang="zh"] .lang-text[data-lang="zh"] { display: inline; }
+.lang-switch { cursor: pointer; margin-left: 10px; font-size: 14px; }
+.lang-switch:hover { text-decoration: underline; }
+</style>
+
 <!-- end custom head snippets -->
