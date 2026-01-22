@@ -1,5 +1,6 @@
 en:
   sidebar:
+    name: "Wujie Sun"
     bio: "Postdoctoral Researcher, Zhejiang University"
     location: "Ningbo, China"
 
@@ -37,6 +38,7 @@ en:
 
 zh:
   sidebar:
+    name: "孙武杰"
     bio: "浙江大学 博士后"
     location: "中国 宁波"
 
