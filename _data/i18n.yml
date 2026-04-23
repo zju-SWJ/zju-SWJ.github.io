@@ -18,7 +18,7 @@ en:
 
   about:
     intro: "I am currently a Postdoctoral Researcher at the School of Software Technology, [Zhejiang University](http://www.zju.edu.cn/). I received my Ph.D. degree from the College of Computer Science and Technology, Zhejiang University in June 2025, supervised by Prof. [Can Wang](https://scholar.google.com/citations?user=C63q3HoAAAAJ&hl=zh-CN) and Prof. [Chun Chen](https://person.zju.edu.cn/chenc)."
-    research: "My research interests include **computer vision** and **knowledge distillation**."
+    research: "My research interests include **model compression and acceleration** and **knowledge conflicts in large language models**."
     email: "Email"
 
   news:
@@ -56,7 +56,7 @@ zh:
 
   about:
     intro: "我目前是[浙江大学](http://www.zju.edu.cn/)软件学院的博士后。我于2025年6月在浙江大学计算机科学与技术学院获得博士学位，导师为[王灿](https://scholar.google.com/citations?user=C63q3HoAAAAJ&hl=zh-CN)教授和[陈纯](https://person.zju.edu.cn/chenc)教授。"
-    research: "我的研究方向包括**计算机视觉**和**知识蒸馏**。"
+    research: "我的研究方向包括**模型压缩与加速**和**大模型知识冲突**。"
     email: "邮箱"
 
   news:
