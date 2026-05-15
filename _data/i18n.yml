@@ -8,12 +8,14 @@ en:
     about: "About Me"
     news: "News"
     publications: "Selected Publications"
+    apps: "Personal Apps"
     education: "Education & Experience"
 
   sections:
     about: "About Me"
     news: "News"
     publications: "Selected Publications"
+    apps: "Personal Apps"
     education: "Education & Experience"
 
   about:
@@ -24,6 +26,9 @@ en:
   news:
     - date: "2026.01"
       content: "One paper \"TopKGAT: A Top-K Objective-Driven Architecture for Recommendation\" accepted by **WWW 2026**!"
+
+  apps:
+    intro: "Beyond research, I occasionally build small apps for fun. They reflect my preference for simple tools: less configuration, less noise, and more attention left for the thing I actually want to do."
 
   education:
     - period: "2025.08 - Present"
@@ -46,12 +51,14 @@ zh:
     about: "关于我"
     news: "新闻"
     publications: "代表论文"
+    apps: "个人应用"
     education: "教育和工作经历"
 
   sections:
     about: "关于我"
     news: "新闻"
     publications: "代表论文"
+    apps: "个人应用"
     education: "教育和工作经历"
 
   about:
@@ -62,6 +69,9 @@ zh:
   news:
     - date: "2026.01"
       content: "论文 \"TopKGAT: A Top-K Objective-Driven Architecture for Recommendation\" 被 **WWW 2026** 录用！"
+
+  apps:
+    intro: "除了研究，我也会做一些自己觉得有意思的小应用。它们更多是我对“简单工具”的偏好：少一点复杂配置，少一点打扰，把注意力留给真正要做的事情。"
 
   education:
     - period: "2025.08 - 至今"

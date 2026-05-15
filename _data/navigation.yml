@@ -2,16 +2,25 @@
 main:
   - title_en: "About Me"
     title_zh: "关于我"
-    url: "/#-about-me"
+    url_en: "/#about-me"
+    url_zh: "/#zh-about-me"
 
   - title_en: "News"
     title_zh: "新闻"
-    url: "/#-news"
+    url_en: "/#news"
+    url_zh: "/#zh-news"
 
   - title_en: "Selected Publications"
     title_zh: "代表论文"
-    url: "/#-selected-publications"
+    url_en: "/#selected-publications"
+    url_zh: "/#zh-selected-publications"
+
+  - title_en: "Personal Apps"
+    title_zh: "个人应用"
+    url_en: "/#personal-apps"
+    url_zh: "/#zh-personal-apps"
 
   - title_en: "Education & Experience"
     title_zh: "教育和工作经历"
-    url: "/#-education--experience"
+    url_en: "/#education--experience"
+    url_zh: "/#zh-education--experience"

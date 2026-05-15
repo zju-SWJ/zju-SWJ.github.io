@@ -5,14 +5,14 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="#about-me" target="_self">
+            <a href="#about-me" data-href-en="#about-me" data-href-zh="#zh-about-me" target="_self">
               <span class="lang-text" data-lang="en">Homepage</span>
               <span class="lang-text" data-lang="zh">主页</span>
             </a>
           </li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}" target="_self">
+              <a href="{{ domain }}{{ link.url_en }}" data-href-en="{{ domain }}{{ link.url_en }}" data-href-zh="{{ domain }}{{ link.url_zh }}" target="_self">
                 <span class="lang-text" data-lang="en">{{ link.title_en }}</span>
                 <span class="lang-text" data-lang="zh">{{ link.title_zh }}</span>
               </a>
@@ -37,5 +37,16 @@ function toggleLang() {
   var next = current === 'en' ? 'zh' : 'en';
   document.documentElement.setAttribute('data-lang', next);
   localStorage.setItem('lang', next);
+  updateNavLinks(next);
 }
+
+function updateNavLinks(lang) {
+  document.querySelectorAll('[data-href-en][data-href-zh]').forEach(function(link) {
+    link.setAttribute('href', lang === 'zh' ? link.dataset.hrefZh : link.dataset.hrefEn);
+  });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  updateNavLinks(document.documentElement.getAttribute('data-lang') || 'en');
+});
 </script>
